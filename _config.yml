@@ -1,2 +1,4 @@
 name: ieee-iotj-si-serp4iot
 markdown: kramdown
+
+theme: jekyll-theme-slate
